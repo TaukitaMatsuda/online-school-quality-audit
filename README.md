@@ -122,7 +122,7 @@ online-school-quality-audit/
 
 ```bash
 # 1. Клонировать репозиторий
-git clone https://github.com/[ваш-username]/online-school-quality-audit.git
+git clone https://github.com/TaukitaMatsuda/online-school-quality-audit.git
 cd online-school-quality-audit
 
 # 2. Установить зависимости
