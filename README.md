@@ -1,4 +1,3 @@
-```markdown
 # 🎓 Online School Quality Audit & Recommendation System
 
 <div align="center">
